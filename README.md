@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Vibra</h1>
 
-## Getting Started
+<p align="center"><img src="https://cdn.discordapp.com/attachments/863666274214477855/1187636002773291018/vibralogo.png?ex=65979b38&is=65852638&hm=c08be68846daea7a6d126cda4222d2b9c6ff89950fbe9b385ff5fc023e95c197&" alt=""></p>
 
-First, run the development server:
+<p id="description">Vibra is a cool music app to vibe with! Just add your favorite tunes and enjoy a personalized music experience. It's a simple and fun way to listen to the music you love!</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>🚀 Try It Out</h2>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/search?title=](https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/search?title=)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h2>Project Screenshots:</h2>
+<p></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634254339899453/Vibra1.png?ex=65979997&amp;is=65852497&amp;hm=04f0ea6893235e79e28c468bc463dbbaa168cf9f4f8c934624af2d2ecc69ec46&amp;" alt="project-screenshot" width="400" height="400/">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634260266463262/Vibra2.png?ex=65979998&amp;is=65852498&amp;hm=bd3bd57093765d075ff39d4126d3b2f237505a9bb26ad8fb94fc3911287f8e80&amp;" alt="project-screenshot" width="400" height="400/">
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634267979792385/Vibra3.png?ex=6597999a&amp;is=6585249a&amp;hm=82fe85d1bd741fe1122a352fe97705dfd20e8d01c58e7c8bda6c0985b47facd5&amp;" alt="project-screenshot" width="400" height="400/">
