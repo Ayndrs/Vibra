@@ -10,8 +10,8 @@
 
 <h2>Project Screenshots:</h2>
 <p></p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634254339899453/Vibra1.png?ex=65979997&amp;is=65852497&amp;hm=04f0ea6893235e79e28c468bc463dbbaa168cf9f4f8c934624af2d2ecc69ec46&amp;" alt="project-screenshot" width="1920" height="1080/">
+<p align="center"><img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634254339899453/Vibra1.png?ex=65979997&amp;is=65852497&amp;hm=04f0ea6893235e79e28c468bc463dbbaa168cf9f4f8c934624af2d2ecc69ec46&amp;" alt="project-screenshot" width="500" height="400/">
 
-<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634260266463262/Vibra2.png?ex=65979998&amp;is=65852498&amp;hm=bd3bd57093765d075ff39d4126d3b2f237505a9bb26ad8fb94fc3911287f8e80&amp;" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634260266463262/Vibra2.png?ex=65979998&amp;is=65852498&amp;hm=bd3bd57093765d075ff39d4126d3b2f237505a9bb26ad8fb94fc3911287f8e80&amp;" alt="project-screenshot" width="500" height="400/">
 
-<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634267979792385/Vibra3.png?ex=6597999a&amp;is=6585249a&amp;hm=82fe85d1bd741fe1122a352fe97705dfd20e8d01c58e7c8bda6c0985b47facd5&amp;" alt="project-screenshot" width="1920" height="1080/">
+<img src="https://cdn.discordapp.com/attachments/863666274214477855/1187634267979792385/Vibra3.png?ex=6597999a&amp;is=6585249a&amp;hm=82fe85d1bd741fe1122a352fe97705dfd20e8d01c58e7c8bda6c0985b47facd5&amp;" alt="project-screenshot" width="500" height="400/">
