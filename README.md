@@ -6,7 +6,7 @@
 
 <h2>🚀 Try It Out</h2>
 
-[https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/search?title=](https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/search?title=)
+[Vibra]([https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/search?title=](https://vibra-xcs2mhvbt-andrs-projects-ceb059b7.vercel.app/))
 
 <h2>Project Screenshots:</h2>
 <p></p>
